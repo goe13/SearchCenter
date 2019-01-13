@@ -39,8 +39,8 @@ for (elementIndex in anchorList) {
     img.setAttribute("src",chrome.extension.getURL("images/spinWorld.png"));
     img.setAttribute("width", "16");
     img.setAttribute("class", "icon");
-    img.setAttribute("alt", "click to add to search center");
-    img.setAttribute("title", "click to add to search center");
+    img.setAttribute("alt", "click to add to Search-Center");
+    img.setAttribute("title", "click to add to Search-Center");
     a.appendChild(img);
 
     element.parentNode.insertBefore(a, element);

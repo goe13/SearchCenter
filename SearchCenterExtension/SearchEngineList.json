@@ -1,47 +1,69 @@
 ﻿[
-{ "SearchEngineName": "Google",
-                            "IconUrl": "http://google.com/favicon.ico",
-                            "SearchUrl": "http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=searchcenter",
-                            "updateUrl":"/xml/openSearch/www.google.com.xml",
-                            "suggestUrl":"http://clients1.google.com/complete/search?client=chrome&hl=en-GB&q={searchTerms}"
-},
-{ "SearchEngineName": "Wikipedia",
-                            "IconUrl": "http://en.wikipedia.org/favicon.ico",
-                            "SearchUrl": "http://en.wikipedia.org/w/index.php?title=Special:Search&search=searchcenter",
-							"updateUrl":"/xml/openSearch/en.wikipedia.org.xml"
-},
-{ "SearchEngineName": "Dictionary",
-                            "IconUrl": "http://google.com/favicon.ico",
-                            "SearchUrl": "http://www.google.com/dictionary?langpair=en|en&q=searchcenter&hl=en&aq=f",
-                            "updateUrl":"/xml/openSearch/dictionary.google.com.xml"
-},
-{ "SearchEngineName": "imdb",
-                            "IconUrl": "http://imdb.com/favicon.ico",
-                            "SearchUrl": "http://www.imdb.com/find?s=all&q=searchcenter",
-                            "updateUrl":"/xml/openSearch/www.imdb.com.xml"
-},
-{ "SearchEngineName": "Amazon",
-                            "IconUrl": "http://www.amazon.com/favicon.ico",
-                            "SearchUrl": "http://www.amazon.com/s/ref=nb_ss?url=search-alias%3Daps&field-keywords=searchcenter&x=0&y=0",
-                            "updateUrl":"/xml/openSearch/www.amazon.com.xml"
-},
-{ "SearchEngineName": "Thesaurus",
-                            "IconUrl": "http://cache.lexico.com/g/t/favicon.ico",
-                            "SearchUrl": "http://thesaurus.reference.com/browse/searchcenter",
-                            "updateUrl":"/xml/openSearch/www.thesaurus.com.xml"
-},
-{ "SearchEngineName": "eBay",
-                            "IconUrl": "http://www.ebay.com/favicon.ico",
-                            "SearchUrl": "http://shop.ebay.com/?_from=R40&_trksid=p3907.m38.l1313&_nkw=searchcenter&_sacat=See-All-Categories",
-                            "updateUrl":"/xml/openSearch/www.ebay.com.xml"
-},
-{ "SearchEngineName": "Twitter",
-                            "IconUrl": "http://twitter.com/favicon.ico",
-                            "SearchUrl": "http://twitter.com/search?q=searchcenter",
-                            "updateUrl":"/xml/openSearch/www.twitter.com.xml"
-}
-
+    {
+        "SearchEngineName": "Google",
+        "IconUrl": "http://google.com/favicon.ico",
+        "SearchUrl": "http://www.google.com/search?sourceid=chrome&ie=UTF-8&q=searchcenter",
+        "updateUrl": "/xml/openSearch/www.google.com.xml",
+        "suggestUrl": "http://clients1.google.com/complete/search?client=chrome&hl=en-GB&q={searchTerms}"
+    },
+    {
+        "SearchEngineName": "Github",
+        "IconUrl": "https://github.com/favicon.ico",
+        "SearchUrl": "https://github.com/search?q=searchcenter",
+        "updateUrl": "/xml/openSearch/github.com.xml"
+    },
+    {
+        "SearchEngineName": "JianShu",
+        "IconUrl": "https://www.jianshu.com/favicon.ico",
+        "SearchUrl": "http://www.jianshu.com/search?q=searchcenter&page=1&type=note",
+        "updateUrl": "/xml/openSearch/www.jianshu.com.xml"
+    },
+    {
+        "SearchEngineName": "V2EX",
+        "IconUrl": "https://www.v2ex.com/favicon.ico",
+        "SearchUrl": "https://www.google.com/search?q=site:v2ex.com/t%20searchcenter",
+        "updateUrl": "/xml/openSearch/www.v2ex.com.xml"
+    },
+    {
+        "SearchEngineName": "BiliBili",
+        "IconUrl": "https://www.bilibili.com/favicon.ico",
+        "SearchUrl": "https://search.bilibili.com/all?keyword=searchcenter",
+        "updateUrl": "/xml/openSearch/www.bilibili.com.xml"
+    },
+    {
+        "SearchEngineName": "Wikipedia",
+        "IconUrl": "http://en.wikipedia.org/favicon.ico",
+        "SearchUrl": "http://en.wikipedia.org/w/index.php?title=Special:Search&search=searchcenter",
+        "updateUrl": "/xml/openSearch/en.wikipedia.org.xml"
+    },
+    {
+        "SearchEngineName": "Zhihu",
+        "IconUrl": "https://www.zhihu.com/favicon.ico",
+        "SearchUrl": "https://www.zhihu.com/search?type=content&q=searchcenter",
+        "updateUrl": "/xml/openSearch/www.zhihu.com.xml"
+    },
+    {
+        "SearchEngineName": "Amazon",
+        "IconUrl": "http://www.amazon.com/favicon.ico",
+        "SearchUrl": "http://www.amazon.com/s/ref=nb_ss?url=search-alias%3Daps&field-keywords=searchcenter&x=0&y=0",
+        "updateUrl": "/xml/openSearch/www.amazon.com.xml"
+    },
+    {
+        "SearchEngineName": "Sunning",
+        "IconUrl": "https://www.suning.com/favicon.ico",
+        "SearchUrl": "https://search.suning.com/searchcenter/",
+        "updateUrl": "/xml/openSearch/www.sunning.com.xml"
+    },
+    {
+        "SearchEngineName": "Taobao",
+        "IconUrl": "https://www.taobao.com/favicon.ico",
+        "SearchUrl": "https://s.taobao.com/search?q=searchcenter",
+        "updateUrl": "/xml/openSearch/www.taobao.com.xml"
+    },
+    {
+        "SearchEngineName": "imdb",
+        "IconUrl": "http://imdb.com/favicon.ico",
+        "SearchUrl": "http://www.imdb.com/find?s=all&q=searchcenter",
+        "updateUrl": "/xml/openSearch/www.imdb.com.xml"
+    }
 ]
-
-
-
